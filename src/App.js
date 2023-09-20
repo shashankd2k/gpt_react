@@ -11,11 +11,11 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="login.html"
+          href="https://master.dw9ypqng5lvud.amplifyapp.com "
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Login page
         </a>
       </header>
     </div>
