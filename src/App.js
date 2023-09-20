@@ -11,7 +11,7 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="login.html"
+          href="file:///C:/Users/91998/Desktop/mygpt/src/login.html"
           target="_blank"
           rel="noopener noreferrer"
         >
