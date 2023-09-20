@@ -11,7 +11,7 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://master.dw9ypqng5lvud.amplifyapp.com "
+          href="login.html"
           target="_blank"
           rel="noopener noreferrer"
         >
